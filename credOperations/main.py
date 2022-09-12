@@ -44,7 +44,7 @@ def get_course(db:Session = Depends(get_db)):
 @app.get('/get_a_course/{id}',response_model= schemas.showCourse,status_code=200,tags=['Courses'])
 def get_a_course(id,db:Session = Depends(get_db)):
     courses = db.query(models.course).filter(models.course.id == id).first()
-    print(courses)
+    
     if not courses:
         raise HTTPException(status_code=404,detail="Course not present")
         # response.status_code = 404
