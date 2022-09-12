@@ -1,0 +1,27 @@
+[
+    {'is_early_bird': True, 'id': 1,
+     'course_fee': 2000, 
+     'course_name': 'data science', 
+     'student_id': 1
+    },
+    {'is_early_bird': True,
+     'id': 2, 'course_fee': 2000,
+      'course_name': 'cloud computing',
+       'student_id': 1
+    },
+    {'is_early_bird': True,
+     'id': 3, 'course_fee': 2000,
+      'course_name': 'cloud computing',
+       'student_id': 1
+    },
+    {'is_early_bird': True,
+     'id': 4, 'course_fee': 3000,
+      'course_name': 'big data',
+       'student_id': 1
+    },
+    {'is_early_bird': True,
+     'id': 5, 'course_fee': 3000,
+      'course_name': 'data sciecne',
+       'student_id': 1
+    }
+]

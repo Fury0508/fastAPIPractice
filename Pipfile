@@ -9,6 +9,7 @@ uvicorn = "*"
 sqlalchemy = "*"
 passlib = "*"
 bcrypt = "*"
+requests = "*"
 
 [dev-packages]
 
