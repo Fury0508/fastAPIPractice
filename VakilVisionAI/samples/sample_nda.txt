@@ -1,0 +1,167 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of August 29, 2026, by and between:
+
+Disclosing Party:
+Name: Footasylum
+Address: India
+Hereinafter referred to as "Discloser"
+
+AND
+
+Receiving Party:
+Name: Dhananjay
+Address: Manchester
+Hereinafter referred to as "Recipient"
+
+RECITALS:
+
+WHEREAS, the Discloser possesses certain confidential and proprietary information; and
+
+WHEREAS, the Discloser desires to disclose certain confidential information to the Recipient for the purpose of business collaboration and evaluation; and
+
+WHEREAS, the Recipient agrees to receive and maintain such information in confidence.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+For purposes of this Agreement, "Confidential Information" means all information, whether written, oral, electronic, or visual, disclosed by the Discloser to the Recipient, including but not limited to:
+
+1.1 Trade secrets, business plans, financial information, and customer lists
+1.2 Technical data, specifications, software, source code, and algorithms
+1.3 Product designs, prototypes, and development methodologies
+1.4 Market research and strategic plans
+1.5 Any other information marked as "Confidential" or identified as confidential at the time of disclosure
+
+2. EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+
+Confidential Information does not include information that:
+
+2.1 Is or becomes publicly available through no breach of this Agreement by the Recipient
+2.2 Is rightfully received by the Recipient from a third party without breach of any confidentiality obligation
+2.3 Is independently developed by the Recipient without use of or reference to the Confidential Information
+2.4 Is required to be disclosed by law or court order, provided the Recipient gives prompt notice to the Discloser
+2.5 Was known to the Recipient prior to disclosure, as evidenced by written records
+
+3. OBLIGATIONS OF THE RECIPIENT
+
+The Recipient agrees to:
+
+3.1 Maintain all Confidential Information in strict confidence using the same degree of care it uses for its own confidential information, but no less than reasonable care
+3.2 Limit access to Confidential Information only to employees, contractors, and advisors who have a legitimate need to know and who are bound by written confidentiality obligations
+3.3 Use Confidential Information solely for the purpose stated in the Recitals section
+3.4 Not reverse engineer, disassemble, or attempt to derive the underlying principles of any Confidential Information without prior written consent
+3.5 Not disclose Confidential Information to any third party without prior written consent of the Discloser
+3.6 Implement appropriate physical, electronic, and procedural safeguards to protect Confidential Information
+
+4. TERM AND TERMINATION
+
+4.1 This Agreement shall commence on the date first written above and continue for a period of 2 years, unless earlier terminated by either party upon 30 days written notice.
+
+4.2 The obligations of the Recipient under this Agreement shall survive termination and continue for 3 years following the termination date, or for as long as the information remains a trade secret under applicable law.
+
+4.3 Upon termination, the Recipient shall, upon request of the Discloser, return or destroy all Confidential Information and certify in writing its compliance with this provision.
+
+5. NO LICENSE GRANTED
+
+Disclosure of Confidential Information does not grant any license, right, or interest to the Recipient in or to any Confidential Information or any intellectual property rights thereof, except as expressly authorized in writing by the Discloser.
+
+6. NO OBLIGATION TO DISCLOSE
+
+The Discloser is not obligated to disclose any Confidential Information. This Agreement does not obligate either party to enter into any business relationship or transaction.
+
+7. REMEDIES
+
+7.1 The Recipient acknowledges that unauthorized disclosure of Confidential Information would cause irreparable harm to the Discloser.
+
+7.2 In addition to any other remedies available at law or in equity, the Discloser shall be entitled to seek injunctive relief to prevent breach or threatened breach of this Agreement.
+
+8. NO WARRANTY
+
+The Discloser provides Confidential Information "AS IS" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement of third-party rights.
+
+9. RETURN OF INFORMATION
+
+Within 30 days of request by the Discloser, or upon termination of this Agreement, the Recipient shall return or destroy (at the Discloser's option) all Confidential Information in its possession or control and provide written certification of compliance.
+
+10. NO RELATIONSHIP
+
+Nothing in this Agreement shall be construed as creating a partnership, joint venture, agency, or employment relationship between the parties.
+
+11. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties regarding the subject matter and supersedes all prior negotiations, understandings, and agreements, whether written or oral, relating to such subject matter.
+
+12. AMENDMENTS
+
+This Agreement may not be amended, modified, or waived except by written instrument signed by authorized representatives of both parties.
+
+13. SEVERABILITY
+
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable.
+
+14. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of laws principles.
+
+15. JURISDICTION AND VENUE
+
+Each party consents to the exclusive jurisdiction and venue of the courts located in India for any legal action or proceeding arising under or relating to this Agreement.
+
+16. WAIVER
+
+No waiver of any provision or breach of this Agreement shall be effective unless in writing and signed by the waiving party. Failure to enforce any right shall not constitute a waiver of that right.
+
+17. NOTICES
+
+All notices required under this Agreement shall be in writing and delivered by:
+- Personal delivery
+- Certified mail, return receipt requested
+- Overnight courier service
+- Electronic mail with confirmation of receipt
+
+Notices shall be directed to the addresses specified above or such other addresses as either party may designate in writing.
+
+18. ASSIGNMENT
+
+Neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party, except in connection with a merger, acquisition, or sale of substantially all assets. Any attempted assignment without consent shall be void.
+
+19. COUNTERPARTS
+
+This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument.
+
+20. ACKNOWLEDGMENT
+
+Each party acknowledges that it has read this Agreement, understands its terms and conditions, and agrees to be bound by them.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+DISCLOSER:
+
+_________________________________
+Authorized Signature
+
+_________________________________
+Printed Name
+
+_________________________________
+Title
+
+_________________________________
+Date
+
+
+RECIPIENT:
+
+_________________________________
+Authorized Signature
+
+_________________________________
+Printed Name
+
+_________________________________
+Title
+
+_________________________________
+Date
